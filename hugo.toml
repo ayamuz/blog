@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Néstor Zumaya'
+theme = 'github.com/nodejh/hugo-theme-mini'

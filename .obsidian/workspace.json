@@ -148,8 +148,18 @@
   },
   "active": "e274c591ebcd53b3",
   "lastOpenFiles": [
+    "public/posts/what-will-make-you-happy/index.html",
+    "public/posts/my-first-post/index.html",
+    "public/posts/what-will-make-you-happy",
+    "public/posts/my-first-post",
+    "public/posts/index.xml",
+    "public/posts/index.html",
+    "public/posts",
+    "public/hugo-theme-console/font/RobotoMono-Regular.ttf",
+    "public/hugo-theme-console/font/RobotoMono-Italic.ttf",
+    "public/hugo-theme-console/font/RobotoMono-BoldItalic.ttf",
+    "public/hugo-theme-console/font/RobotoMono-Bold.ttf",
     "netlify.toml.md",
-    "netlify.toml",
     "content/posts/What will make you happy?.md"
   ]
 }

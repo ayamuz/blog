@@ -161,6 +161,7 @@
   },
   "active": "eb72d7cc4e5eb332",
   "lastOpenFiles": [
+    "layouts/mentalHealth/_index.md",
     "layouts/mentalHealth/single.html",
     "layouts/mentalHealth",
     "content/mentalHealth",
@@ -174,7 +175,6 @@
     "public/posts/my-first-post",
     "public/posts/index.xml",
     "public/posts/index.html",
-    "public/posts",
     "netlify.toml.md"
   ]
 }

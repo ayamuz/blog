@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/How to calm our inner voice.md",
+                "file": "content/mentalHealth/How to calm our inner voice.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/How to calm our inner voice.md",
+                "file": "content/mentalHealth/How to calm our inner voice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/How to calm our inner voice.md",
+                "file": "content/mentalHealth/How to calm our inner voice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/How to calm our inner voice.md"
+                "file": "content/mentalHealth/How to calm our inner voice.md"
               }
             }
           }
@@ -159,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5f559284222e7ae",
+  "active": "eb72d7cc4e5eb332",
   "lastOpenFiles": [
+    "content/mentalHealth",
+    "content/mental_health",
     "content/posts/my-first-post.md",
-    "content/posts/How to calm our inner voice.md",
+    "content/mentalHealth/How to calm our inner voice.md",
     "content/posts/What will make you happy?.md",
     "public/posts/what-will-make-you-happy/index.html",
     "public/posts/my-first-post/index.html",
@@ -173,7 +175,6 @@
     "public/posts",
     "public/hugo-theme-console/font/RobotoMono-Regular.ttf",
     "public/hugo-theme-console/font/RobotoMono-Italic.ttf",
-    "public/hugo-theme-console/font/RobotoMono-BoldItalic.ttf",
     "netlify.toml.md"
   ]
 }

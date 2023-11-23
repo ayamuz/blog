@@ -161,6 +161,8 @@
   },
   "active": "eb72d7cc4e5eb332",
   "lastOpenFiles": [
+    "layouts/mentalHealth/single.html",
+    "layouts/mentalHealth",
     "content/mentalHealth",
     "content/mental_health",
     "content/posts/my-first-post.md",
@@ -173,8 +175,6 @@
     "public/posts/index.xml",
     "public/posts/index.html",
     "public/posts",
-    "public/hugo-theme-console/font/RobotoMono-Regular.ttf",
-    "public/hugo-theme-console/font/RobotoMono-Italic.ttf",
     "netlify.toml.md"
   ]
 }

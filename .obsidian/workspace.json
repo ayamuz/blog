@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/What will make you happy?.md",
+                "file": "content/posts/How to calm our inner voice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5f559284222e7ae",
+            "id": "62d990cfb60540fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/mentalHealth/How to calm our inner voice.md",
+                "file": "content/mentalHealth.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/mentalHealth/How to calm our inner voice.md",
+                "file": "content/mentalHealth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/mentalHealth/How to calm our inner voice.md",
+                "file": "content/mentalHealth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/mentalHealth/How to calm our inner voice.md"
+                "file": "content/mentalHealth.md"
               }
             }
           }
@@ -159,22 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb72d7cc4e5eb332",
+  "active": "62d990cfb60540fb",
   "lastOpenFiles": [
-    "layouts/mentalHealth/_index.md",
-    "layouts/mentalHealth/single.html",
-    "layouts/mentalHealth",
-    "content/mentalHealth",
-    "content/mental_health",
-    "content/posts/my-first-post.md",
     "content/mentalHealth/How to calm our inner voice.md",
+    "themes/hugo-theme-console/exampleSite/content/about/index.md",
+    "public/posts/how-to-calm-our-inner-voice/index.html",
+    "public/posts/how-to-calm-our-inner-voice",
+    "public/mentalhealth/how-to-calm-our-inner-voice/index.html",
+    "public/mentalhealth/index.xml",
+    "public/mentalhealth/index.html",
+    "public/mentalhealth/how-to-calm-our-inner-voice",
+    "public/mentalhealth",
+    "content/mentalHealth.html",
+    "themes/hugo-theme-console/exampleSite/content/photos/_index.md",
+    "themes/hugo-theme-console/exampleSite/content/posts/_index.md",
+    "content/mentalHealth.md",
+    "content/posts/How to calm our inner voice.md",
+    "content/mentalHealth",
+    "content/posts/mentalHealth",
     "content/posts/What will make you happy?.md",
-    "public/posts/what-will-make-you-happy/index.html",
-    "public/posts/my-first-post/index.html",
-    "public/posts/what-will-make-you-happy",
-    "public/posts/my-first-post",
-    "public/posts/index.xml",
-    "public/posts/index.html",
+    "layouts/page/index.md",
+    "layouts/index.md",
+    "content/posts/mentalHealth.md",
+    "layouts/mentalHealth/index.md",
+    "content/mental_Health.md",
+    "content/How to calm our inner voice.md",
+    "layouts/mentalHealth/_index.md",
+    "content/posts/my-first-post.md",
     "netlify.toml.md"
   ]
 }

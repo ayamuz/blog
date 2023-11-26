@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Néstor Zumaya</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Néstor Zumaya</description>
+    <title>MentalHealths on Néstor Zumaya</title>
+    <link>/mentalhealth/</link>
+    <description>Recent content in MentalHealths on Néstor Zumaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Nov 2023 16:54:08 -0600</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/mentalhealth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to calm our inner voice</title>
-      <link>/posts/how-to-calm-our-inner-voice/</link>
+      <link>/mentalhealth/how-to-calm-our-inner-voice/</link>
       <pubDate>Mon, 20 Nov 2023 16:54:08 -0600</pubDate>
-      <guid>/posts/how-to-calm-our-inner-voice/</guid>
+      <guid>/mentalhealth/how-to-calm-our-inner-voice/</guid>
       <description>Most of us know how difficult it can be to deal with our inner voice. Although it might be beneficial during some creative situations or while we remember great experiences, it certainly can get in our way during difficult times. It makes us doubt ourselves and can even overtake our emotions. That negative inner voice is known as chatter.
 While it is easy to let our inner voice take control of our thoughts, different techniques are effective in dealing with this phenomenon.</description>
-    </item>
-    <item>
-      <title>What will make you happy?</title>
-      <link>/posts/what-will-make-you-happy/</link>
-      <pubDate>Mon, 20 Nov 2023 16:43:57 -0600</pubDate>
-      <guid>/posts/what-will-make-you-happy/</guid>
-      <description>Most people take pride in their relationships and rarely mention wealth or academic accomplishments. This sounds obvious since loneliness is a real problem now. I&amp;rsquo;d like to see more people talking about how to deal with the current loneliness issue. https://www.youtube.com/watch?v=vSQjk9jKarg</description>
     </item>
   </channel>
 </rss>

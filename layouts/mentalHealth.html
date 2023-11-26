@@ -1,9 +1,9 @@
 {{ define "main" }}
 
-<h1>Mental Health</h1>
+<h1>Mental Health Home</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/mentalHealth" }}
+{{ with .Site.GetPage "/mentalhealth" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>

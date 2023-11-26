@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/mentalHealth.md",
+                "file": "content/Mental Health.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/mentalHealth.md",
+                "file": "content/Mental Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/mentalHealth.md",
+                "file": "content/Mental Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/mentalHealth.md"
+                "file": "content/Mental Health.md"
               }
             }
           }
@@ -161,7 +161,13 @@
   },
   "active": "62d990cfb60540fb",
   "lastOpenFiles": [
+    "public/mental-health/index.html",
+    "public/mental-health",
+    "content/mentalhealth/How to calm our inner voice.md",
+    "content/mentalhealth",
+    "layouts/mentalhealth.html",
     "content/mentalHealth/How to calm our inner voice.md",
+    "content/Mental Health.md",
     "themes/hugo-theme-console/exampleSite/content/about/index.md",
     "public/posts/how-to-calm-our-inner-voice/index.html",
     "public/posts/how-to-calm-our-inner-voice",
@@ -170,13 +176,9 @@
     "public/mentalhealth/index.html",
     "public/mentalhealth/how-to-calm-our-inner-voice",
     "public/mentalhealth",
-    "content/mentalHealth.html",
     "themes/hugo-theme-console/exampleSite/content/photos/_index.md",
     "themes/hugo-theme-console/exampleSite/content/posts/_index.md",
-    "content/mentalHealth.md",
     "content/posts/How to calm our inner voice.md",
-    "content/mentalHealth",
-    "content/posts/mentalHealth",
     "content/posts/What will make you happy?.md",
     "layouts/page/index.md",
     "layouts/index.md",

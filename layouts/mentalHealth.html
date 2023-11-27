@@ -2,7 +2,7 @@
 
 
 <div class="posts-list">
-{{ with .Site.GetPage "/thoughts" }}
+{{ with .Site.GetPage "/mentalhealth" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>

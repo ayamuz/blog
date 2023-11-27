@@ -12,6 +12,7 @@ theme = "hugo-theme-console"
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
+  
   name = "Mental Health"
   url = "mentalhealth/"
 

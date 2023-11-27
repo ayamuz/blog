@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "62d990cfb60540fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Mental Health.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Mental Health.md",
+                "file": "content/posts/How to calm our inner voice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Mental Health.md",
+                "file": "content/posts/How to calm our inner voice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Mental Health.md"
+                "file": "content/posts/How to calm our inner voice.md"
               }
             }
           }
@@ -159,23 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d990cfb60540fb",
+  "active": "e274c591ebcd53b3",
   "lastOpenFiles": [
-    "public/mental-health/index.html",
-    "public/mental-health",
+    "content/mentalhealth/_index.md",
+    "content/mentalhealth/index.md",
+    "layouts/baseof.html",
+    "layouts/mentalhealth.html",
+    "layouts/thoughts copy.html",
     "content/mentalhealth/How to calm our inner voice.md",
     "content/mentalhealth",
-    "layouts/mentalhealth.html",
+    "content/thoughts copy/How to calm our inner voice.md",
+    "content/thoughts copy",
+    "public/thoughts/how-to-calm-our-inner-voice/index.html",
+    "public/thoughts/index.xml",
+    "public/thoughts/index.html",
+    "public/thoughts/how-to-calm-our-inner-voice",
+    "public/thoughts",
+    "content/thoughts/How to calm our inner voice.md",
+    "content/thougths/How to calm our inner voice.md",
+    "content/thougth/How to calm our inner voice.md",
+    "content/mentalhealth.md",
     "content/mentalHealth/How to calm our inner voice.md",
-    "content/Mental Health.md",
     "themes/hugo-theme-console/exampleSite/content/about/index.md",
-    "public/posts/how-to-calm-our-inner-voice/index.html",
-    "public/posts/how-to-calm-our-inner-voice",
-    "public/mentalhealth/how-to-calm-our-inner-voice/index.html",
-    "public/mentalhealth/index.xml",
-    "public/mentalhealth/index.html",
-    "public/mentalhealth/how-to-calm-our-inner-voice",
-    "public/mentalhealth",
     "themes/hugo-theme-console/exampleSite/content/photos/_index.md",
     "themes/hugo-theme-console/exampleSite/content/posts/_index.md",
     "content/posts/How to calm our inner voice.md",

@@ -12,14 +12,17 @@ theme = "hugo-theme-console"
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
-  
-  name = "Mental Health"
-  url = "mentalhealth/"
+    name = "Mental Health"
+    url = "mentalhealth/"
+
+[[params.navlinks]]
+  name = "Thoughts"
+   url = "thoughts/"
 
   [[params.navlinks]]
-  name = "Posts"
-  url = "posts/"
+    name = "Posts"
+    url = "posts/"
   
   [[params.navlinks]]
-  name = "Photography"
-  url = "photography/"
+    name = "Photography"
+    url = "photography/"

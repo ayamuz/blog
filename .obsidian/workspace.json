@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/How to calm our inner voice.md",
+                "file": "content/posts/What will make you happy?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/How to calm our inner voice.md",
+                "file": "content/posts/What will make you happy?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/How to calm our inner voice.md",
+                "file": "content/posts/What will make you happy?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/How to calm our inner voice.md"
+                "file": "content/posts/What will make you happy?.md"
               }
             }
           }
@@ -148,7 +148,10 @@
   },
   "active": "e274c591ebcd53b3",
   "lastOpenFiles": [
+    "content/thoughts/index.md",
     "content/mentalhealth/_index.md",
+    "content/thoughts/How to calm our inner voice.md",
+    "content/posts/How to calm our inner voice.md",
     "content/mentalhealth/index.md",
     "layouts/baseof.html",
     "layouts/mentalhealth.html",
@@ -162,7 +165,6 @@
     "public/thoughts/index.html",
     "public/thoughts/how-to-calm-our-inner-voice",
     "public/thoughts",
-    "content/thoughts/How to calm our inner voice.md",
     "content/thougths/How to calm our inner voice.md",
     "content/thougth/How to calm our inner voice.md",
     "content/mentalhealth.md",
@@ -170,7 +172,6 @@
     "themes/hugo-theme-console/exampleSite/content/about/index.md",
     "themes/hugo-theme-console/exampleSite/content/photos/_index.md",
     "themes/hugo-theme-console/exampleSite/content/posts/_index.md",
-    "content/posts/How to calm our inner voice.md",
     "content/posts/What will make you happy?.md",
     "layouts/page/index.md",
     "layouts/index.md",
